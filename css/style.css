@@ -135,7 +135,7 @@ header .container .search {
     .landing .container{flex-direction: column;}
     .landing .text{margin-top: 30px;}
     .landing .imag {margin-top: 25px;}
-    .landing .imag img{width: 400px;}
+    .landing .imag img{width: 300px;}
 }
 
 .landing .text {
